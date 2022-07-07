@@ -56,6 +56,23 @@ body {
 
 .nav li.active {
     background-color: #555;
-    background-color: lightgray;
+    background-color: rgb(223, 220, 220);
 
 }
+
+.horizontal-line {
+    width: 70%;
+}
+
+.subsection {
+    font-size: 2rem;
+}
+
+.best-sellers-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    
+    padding: 0;
+}
+
