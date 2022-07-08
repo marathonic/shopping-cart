@@ -1,5 +1,3 @@
-import React from "react";
-
 const getSeason = () => {
   let month = new Date().getMonth();
   let season;

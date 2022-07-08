@@ -9,8 +9,8 @@ function Nav() {
         Hollywander's
       </Link>
       <ul>
-        <CustomLink to="/shop">Shop all</CustomLink>
-        <CustomLink to="/cart">Cart</CustomLink>
+        <Link to="/shop">Shop all</Link>
+        <Link to="/cart">Cart</Link>
       </ul>
     </nav>
   );
